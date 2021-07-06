@@ -1,6 +1,6 @@
-# README
+[Donate](https://paypal.notokay.dev/)
 
-## ABOUT ME
+# ABOUT ME
 
 - I do silly little code in C# mostly
 - I
