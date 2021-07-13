@@ -2,7 +2,7 @@
 
 # ABOUT ME
 
-- 🔭 I’m currently working on my game, Neurosis
+- 🔭 I’m currently working on my game, Neuroses
 - 📫 How to reach me: email support@notokay.dev
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: random number generation on computers isn't actually random
