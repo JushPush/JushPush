@@ -2,8 +2,10 @@
 
 # ABOUT ME
 
-- I do silly little code in C# mostly
-- I
+- 🔭 I’m currently working on my game, Neurosis
+- 📫 How to reach me: email support@notokay.dev
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: random number generation on computers isn't actually random
 
 <!--
 **NotOkay3272/NotOkay3272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
