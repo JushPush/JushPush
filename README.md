@@ -5,3 +5,4 @@
 - 😄 Pronouns: she/her
 - 🫵 Stinky
 
+[Website](https://www.notokay.dev)
