@@ -6,3 +6,5 @@
 - 🫵 Stinky
 
 [Website](https://www.notokay.dev)
+
+<iframe src="https://www.notokay.dev/" title="Website"></iframe>
