@@ -1,7 +1,6 @@
 # ABOUT ME
 
 [![Sponsors](https://img.shields.io/github/sponsors/EinKara?style=for-the-badge)](https://github.com/sponsors/JushPush)
-[comment]:<>([![Website](https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.notokay.dev%2F)](https://www.notokay.dev))
 
 ---
 
