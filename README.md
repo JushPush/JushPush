@@ -13,3 +13,7 @@ My name is Kara, I am an independent developer. I know how to write in Python, C
 [![Twitter](https://img.shields.io/twitter/follow/JushPush?color=lightblue&logo=twitter&style=flat-square)](https://www.twitter.com/JushPush) </br>
 [![Mastodon](https://img.shields.io/mastodon/follow/110277013601401573?logo=mastodon&style=flat-square)](https://mastodon.social/@einkara) </br>
 [![Twitch](https://img.shields.io/twitch/status/jushpush?logo=twitch&style=flat-square)](https://twitch.tv/jushpush) 
+
+<div align="center">
+  <img src="socials.svg" width="400" height="400" alt="socials"/>
+</div>
