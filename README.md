@@ -10,11 +10,8 @@ My name is Kara, I am an independent developer. I know how to write in Python, C
 
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jushpush)
 
-[![Twitter](https://img.shields.io/twitter/follow/JushPush?color=lightblue&logo=twitter&style=flat-square)](https://www.twitter.com/JushPush) </br>
-[![Mastodon](https://img.shields.io/mastodon/follow/110277013601401573?logo=mastodon&style=flat-square)](https://mastodon.social/@einkara) </br>
-[![Twitch](https://img.shields.io/twitch/status/jushpush?logo=twitch&style=flat-square)](https://twitch.tv/jushpush) 
-
-<link href="style.css" rel="stylesheet"></link>
 <div id="icon" align="center">
-  <img src="logos/twitter.svg" width="50" height="50" alt="twitter"/>
+  <a href="https://www.twitter.com/JushPush">
+    <img src="logos/twitter.svg" width="25" height="25" alt="twitter"/>
+  </a>
 </div>
