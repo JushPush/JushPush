@@ -15,5 +15,23 @@ My name is Kara, I am an independent developer. I know how to write in Python, C
 [![Twitch](https://img.shields.io/twitch/status/jushpush?logo=twitch&style=flat-square)](https://twitch.tv/jushpush) 
 
 <div align="center">
-  <img style="border-radius:10%;" src="logos/twitter.svg" width="50" height="50" alt="twitter"/>
+  <style>
+    #icon {
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      padding: 12px;
+      background-color: lightgrey;
+      display:flex;
+    }
+    #icon img {
+      width: 50px;
+      height: auto;
+      display: block;
+      margin:auto;
+    }
+  </style>
+  <div id="icon">
+    <img src="logos/twitter.svg" width="50" height="50" alt="twitter"/>
+  </div>
 </div>
