@@ -14,6 +14,7 @@ My name is Kara, I am an independent developer. I know how to write in Python, C
 [![Mastodon](https://img.shields.io/mastodon/follow/110277013601401573?logo=mastodon&style=flat-square)](https://mastodon.social/@einkara) </br>
 [![Twitch](https://img.shields.io/twitch/status/jushpush?logo=twitch&style=flat-square)](https://twitch.tv/jushpush) 
 
-<div align="center">
-  <img src="socials.svg" width="50" height="50" alt="twitter"/>
+<link href="style.css" rel="stylesheet"></link>
+<div id="icon" align="center">
+  <img src="logos/twitter.svg" width="50" height="50" alt="twitter"/>
 </div>
