@@ -19,7 +19,7 @@
   <a href="https://www.twitch.tv/jushpush" width="25" height="25">
     <img src="logos/twitch.svg" width="25" height="25" alt="twitch"/>
   </a>
-  <a href="https://www.linktr.ee/jushpush" width="25" height="25">
+  <!--<a href="https://www.linktr.ee/jushpush" width="25" height="25">
     <img src="logos/linktree.svg" width="25" height="25" alt="linktree"/>
-  </a>
+  </a>-->
 </div>
