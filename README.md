@@ -9,7 +9,7 @@ Check out [my online portfolio](https://jushpush.github.io/)!
 
 |Project|Status|
 |-------|------|
-[PyCHAS](https://github.com/JushPush/PyCHAS)|No Longer Maintained.   
-[Portfolio](https://jushpush.github.io/)|Active
+[PyCHAS](https://github.com/JushPush/PyCHAS)|🔴No Longer Maintained.   
+[Portfolio](https://jushpush.github.io/)|🟢Active
 
 ---
