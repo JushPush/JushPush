@@ -12,6 +12,6 @@ Check out [my online portfolio](https://jushpush.github.io/)!
 [PyCHAS](https://github.com/JushPush/PyCHAS)|🔴No Longer Maintained.   
 [Portfolio](https://jushpush.github.io/)|🟢Active
 
-<a class="footer-link">Example</a>
+<a class="footer-link" href="https://karaw.dev/">Example</a>
 
 ---
