@@ -1,0 +1,17 @@
+.footer-link {
+  display: inline-block;
+
+  padding: 10px 20px;
+
+  border-radius: 50%; /* Creates the circular shape */
+
+  background-color: #4CAF50; /* Button background color */
+
+  color: white;
+
+  text-align: center;
+
+  text-decoration: none;
+
+  font-size: 16px;
+}
