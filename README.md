@@ -1,5 +1,5 @@
 # Hi, I'm Kara Wilson!
-<a href="https://www.buymeacoffee.com/jushpush" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="50" width="217"></a>
+<a href='https://ko-fi.com/K3K11176UW' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <p>My name is Kara, I am a 20 year old independent developer. I know how to write in Python, C/C++, C#, Java, and Javascript! I am currently pursuing a BS in Computational Physics with a minor in Computer Science.</p>
 
