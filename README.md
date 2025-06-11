@@ -3,7 +3,7 @@
 
 <p>My name is Kara, I am a 20 year old independent developer. I know how to write in Python, C/C++, C#, Java, and Javascript! I am currently pursuing a BS in Computational Physicse.</p>
 
-Check out [my online portfolio](https://jushpush.github.io/)!
+Check out [my online portfolio](https://karaw.dev/)!
 
 #### Projects of Note
 |Project|Status|
